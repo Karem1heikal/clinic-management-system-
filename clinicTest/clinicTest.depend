@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1712336760 source:c:\c++\datastructure\2- queue\queuetest\clinictest\main.cpp
+	<iostream>
+	"patientClass.h"
+
+1712337020 c:\c++\datastructure\2- queue\queuetest\clinictest\patientclass.h
+
+1712714149 source:c:\c++\datastructure\3- linkedlist\clinic_project\clinictest\main.cpp
+	<iostream>
+	<windows.h>
+	"patientClass.h"
+	"slotlist.h"
+
+1712709855 c:\c++\datastructure\3- linkedlist\clinic_project\clinictest\patientclass.h
+
+1712710754 source:c:\c++\datastructure\3- linkedlist\clinic_project\clinictest\clinic_prog.cpp
+	<iostream>
+	"patientClass.h"
+
+1712668139 source:c:\c++\datastructure\3- linkedlist\clinic_project\clinictest\slot_prog.cpp
+	<iostream>
+	<string>
+	"SlotList.h"
+
+1712674606 c:\c++\datastructure\3- linkedlist\clinic_project\clinictest\slotlist.h
+
